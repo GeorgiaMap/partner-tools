@@ -49,3 +49,10 @@ Display calendar layout in frontend. Try [elfsight calendar widgets](https://elf
 ## Performance
 
 <img src="img/miles/performance-partner-referrals.png" style="max-width:876px"><br><br>
+
+**Nice to Have**  
+Provide a link to website traffic for the entire site when logged in as a staff member.  
+
+<img src="img/miles/performance-web-traffic.png" style="max-width:876px"><br><br>
+
+
