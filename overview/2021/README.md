@@ -48,10 +48,16 @@ Display calendar layout in frontend. Try [elfsight calendar widgets](https://elf
 
 ## Performance
 
+**Nice to Have**  
+Include additional traffic from cached pages by including charts from our cloudflare.com Content Delivery Network (CDN).  
+Make Referral boxes clickable to explore which booking websites are making referrals.  
+Add info below charts to explain Website Grid and Website Profile.  
+If correct, include "Directions indicates the number of clicks to view directions to your location."  
+
 <img src="img/miles/performance-partner-referrals.png" style="max-width:876px"><br><br>
 
 **Nice to Have**  
-Provide a link to website traffic for the entire site when logged in as a staff member.  
+Provide a link to website traffic for the entire website when logged in as a staff member.  
 
 <img src="img/miles/performance-web-traffic.png" style="max-width:876px"><br><br>
 
