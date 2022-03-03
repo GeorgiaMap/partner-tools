@@ -7,14 +7,14 @@ An overview of the current partner tools.
 
 Includes category tags. Clicking tabs sorts columns.
 
-**Nice to Have**
-Show the most recently edited items first.
-Include: Edited by [name] on [date] - With the editor's name clickable.
-Include filters from frontend to filter by region, city, category, etc.
-Make the category tags clickable to filter by category.
-Add a small calendar icon to the right of the search field to open a date range filter.
-Include a thumbnail image to the left of each row.
-Omit the Type and ID columns to conserve space. Include these after the name.
+**Nice to Have**  
+Show the most recently edited items first.  
+Include: Edited by [name] on [date] - With the editor's name clickable.  
+Include filters from frontend to filter by region, city, category, etc.  
+Make the category tags clickable to filter by category.  
+Add a small calendar icon to the right of the search field to open a date range filter.  
+Include a thumbnail image to the left of each row.  
+Omit the Type and ID columns to conserve space. Include these after the name.  
 
 <img src="img/miles/list.png" style="max-width:822px"><br><br>
 
@@ -29,11 +29,11 @@ Omit the Type and ID columns to conserve space. Include these after the name.
 
 ## Brochure Approval Detail
 
-**Nice to Have**
+**Nice to Have**  
 Hide extra cloudinary data under a "More" link.  
-Avoid button overlap of right side.   
-If correct, rename radio button to: "Send notification email when listing is changed."
-Rename "User Emails" to "Send notification to:"
+Avoid button overlap of right side.  
+If correct, rename radio button to: "Send notification email when listing is changed."  
+Rename "User Emails" to "Send notification to:"  
 The text says "you changed your listing for ABC", but the emails can go to other individuals.  
 
 <img src="img/miles/brochure-approval-detail.png" style="max-width:876px"><br><br>
@@ -41,6 +41,6 @@ The text says "you changed your listing for ABC", but the emails can go to other
 ## Calendar
 
 
-**Nice to Have**
-Integration with external partner calendars
-Display calendar layout in frontend. Try [elfsight calendar widgets](https://elfsight.com/event-calendar-widget/)
+**Nice to Have**  
+Integration with external partner calendars  
+Display calendar layout in frontend. Try [elfsight calendar widgets](https://elfsight.com/event-calendar-widget/)  
