@@ -52,7 +52,7 @@ Display calendar layout in frontend. Try [elfsight calendar widgets](https://elf
 Include additional traffic from cached pages by including charts from our cloudflare.com Content Delivery Network (CDN).  
 Make Referral boxes clickable to explore which booking websites are making referrals.  
 Add info below charts to explain Website Grid and Website Profile.  
-If correct, include "Directions indicates the number of clicks to view directions to your location."  
+If correct, include: "Directions" indicates the number of requests to view directions to your location from within our website.  
 
 <img src="img/miles/performance-partner-referrals.png" style="max-width:876px"><br><br>
 
