@@ -61,4 +61,5 @@ Provide a link to website traffic for the entire website when logged in as a sta
 
 <img src="img/miles/performance-web-traffic.png" style="max-width:876px"><br><br>
 
-
+What additional Economic Development data sources would we like to cross-relate for partners?  
+Examples: Page visitor travel interests, impacts on local industries and jobs, positive environmental impacts  
