@@ -44,3 +44,8 @@ The text says "you changed your listing for ABC", but the emails can go to other
 **Nice to Have**  
 Integration with external partner calendars.  
 Display calendar layout in frontend. Try [elfsight calendar widgets](https://elfsight.com/event-calendar-widget/)  
+
+
+## Performance
+
+<img src="img/miles/performance-partner-referrals.png" style="max-width:876px"><br><br>
