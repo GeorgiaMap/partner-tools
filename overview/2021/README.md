@@ -32,7 +32,7 @@ Omit the Type and ID columns to conserve space. Include these after the name.
 **Nice to Have**
 Hide extra cloudinary data under a "More" link.  
 Avoid button overlap of right side.   
-If correct, rename radio button to: "Send notification email when listing is chnaged."
+If correct, rename radio button to: "Send notification email when listing is changed."
 Rename "User Emails" to "Send notification to:"
 The text says "you changed your listing for ABC", but the emails can go to other individuals.  
 
