@@ -64,3 +64,22 @@ Provide a link to website traffic for the entire website when logged in as a sta
 **Additional Reporting for Partners**  
 What additional Economic Development data sources would we like to cross-relate for partners?  
 Examples: Page visitor travel interests, Impacts on local industries and jobs, Positive environmental impacts  
+
+
+<!--
+List of partner locations shows pending changes for admin approval 
+
+Events near partner locations 
+
+Deals for and near partner locations 
+
+Photos for partner locations. Galleries for communities. 
+
+Brochures and documents for partner locations 
+
+Frontend maps for partner locations 
+
+Partner calendar and event detail page 
+
+Places to stay by type, region, city, category 
+-->
