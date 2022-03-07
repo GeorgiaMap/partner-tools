@@ -3,6 +3,11 @@
 
 Overview of Fields and Functionality
 
+To be consistant with popular terminology, "My Account" is an individual's account.  
+Parnter "Organizations" have Locations and Events.  
+Each user may have a role related to Organizations, Location and Events.  
+By default, the user's role in the Organzation applies to its Locations and Events.  
+
 ## My Account
 
 Name (First and Last)  
