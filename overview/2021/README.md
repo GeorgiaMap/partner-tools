@@ -3,9 +3,46 @@
 
 An overview of the current partner tools.  
 
-## List of Partners and Events
+## Group Members - for Location
 
-Includes category tags. Clicking tabs sorts columns.
+**Sortable columns**
+Name (First and Last)  
+Email  
+Role  
+
+**Functionality**
+Row menu: User Details, Remove User  
+Add an existing user [As an Editor] [As an Owner]  
+Add new user - Not a link on current page, user must add themselves.  
+
+**Current issue**  
+Not clear that clicking email goes to the account detail.  
+
+## User Details
+
+Name
+Title
+Email
+
+#### Location Roles
+
+Location
+Role [Editor] [Owner]
+
+## List of Organizations and Events
+
+**Fields**
+Name of Location
+Name of Account (Organization)
+Category Tags 
+ID and 
+Edited By
+Date
+
+**Functionality**
+Clicking tabs sorts columns.
+Search field which filters by Location, Account, Tags
+Send filters to the URL (page, sort, order)
 
 **Nice to Have**  
 Show the most recently edited items first.  
