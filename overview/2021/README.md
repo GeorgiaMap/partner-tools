@@ -3,15 +3,14 @@
 
 Overview of Fields and Functionality
 
-To be consistant with common web terminology, "My Account" refers to an individual.  
-Parter "Organizations" have Individusals, Locations and Events.  
+Partner "Organizations" have Individuals, Locations and Events.  
 Roles set at the Organzation level apply to Locations and Events.  
 Roles may also be set directly for Locations and Events.  
 
 
 ## My Account
 
-Name (First and Last)  
+Individual Name (First and Last)  
 Title
 Email  
 
@@ -20,6 +19,10 @@ My Organizations (and Roles) - Example: Georgia State Parks
 My Locations (and Roles) - Example: Individual Parks
 My Events (and Roles)
 Sign out
+
+Note: In the Miles system, "Accounts" are organizations. Accounts have "Listings" (Locations) and "Events".  
+
+
 
 ## Roles
 
