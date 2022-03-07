@@ -1,9 +1,23 @@
 
-# Current Partner Tools
+# Partner Tool
 
-An overview of the current partner tools.  
+Overview of Fields and Functionality
 
-## Group Members - for Location
+## My Account
+
+Name (First and Last)  
+Title
+Email  
+
+**Sections**
+My Organizations (and Roles) - Example: Georgia State Parks
+My Locations (and Roles) - Example: Individual Parks
+My Events (and Roles)
+Sign out
+
+## Roles
+
+A list of individuals for each organization, location and event.
 
 **Sortable columns**
 Name (First and Last)  
@@ -16,7 +30,7 @@ Add an existing user [As an Editor] [As an Owner]
 Add new user - Not a link on current page, user must add themselves.  
 
 **Current issue**  
-Not clear that clicking email goes to the account detail.  
+Clicking email goes to account detail, row menu needed.  
 
 ## User Details
 
@@ -24,20 +38,20 @@ Name
 Title
 Email
 
-#### Location Roles
-
+**Location Roles** (list)
 Location
-Role [Editor] [Owner]
+Role (Member, Editor, Owner)
 
-## List of Organizations and Events
+## Locations and Events
 
 **Fields**
-Name of Location
-Name of Account (Organization)
+Type (Location, Event, Deal)
+Name - with link to detail
+Presenter (Organization or other group) - with link to detail
 Category Tags 
-ID and 
-Edited By
-Date
+ID (under the name rather than columns)
+Edited By  
+Date Edited  
 
 **Functionality**
 Clicking tabs sorts columns.
@@ -53,16 +67,45 @@ Add a small calendar icon to the right of the search field to open a date range 
 Include a thumbnail image to the left of each row.  
 Omit the Type and ID columns to conserve space. Include these after the name.  
 
-<img src="img/miles/list.png" style="max-width:822px"><br><br>
+<span class="localX">
 
+**Miles Interface** (Current)  
+
+<img src="img/miles/list.png" style="max-width:822px">
+
+</span>
 
 ## Approval Queue
 
-<img src="img/miles/approval-queue.png" style="max-width:1477px"><br><br>
+**Columns**
+Listing/Event
+Presenter (Organization)
+Address
+Changed
+Changed By
+
+**Functionality**
+Row menu: Review
+Search
+Sort columns
+
+**Nice to have**
+Data search
+
+<span class="localX">
+
+**Miles Interface** (Current)  
+
+<img src="img/miles/approval-queue.png" style="max-width:1477px">  
+
+</span>
+
 
 ## Brochure Approval Queue
 
-<img src="img/miles/brochure-approval-queue.png" style="max-width:1070px"><br><br>
+**Miles Interface** (Current)  
+
+<img src="img/miles/brochure-approval-queue.png" style="max-width:1070px">  
 
 ## Brochure Approval Detail
 
@@ -73,7 +116,14 @@ If correct, rename radio button to: "Send notification email when listing is cha
 Rename "User Emails" to "Send notification to:"  
 The text says "you changed your listing for ABC", but the emails can go to other individuals.  
 
-<img src="img/miles/brochure-approval-detail.png" style="max-width:876px"><br><br>
+<span class="localX">
+
+**Miles Interface** (Current) 
+
+<img src="img/miles/brochure-approval-detail.png" style="max-width:876px">  
+
+</span>
+
 
 ## Calendar
 
@@ -90,13 +140,26 @@ Include additional traffic from cached pages by including charts from our cloudf
 Make Referral boxes clickable to explore which booking websites are making referrals.  
 Add info below charts to explain Website Grid and Website Profile.  
 If correct, include: "Directions" indicates the number of requests to view directions to your location from within our website.  
+<span class="localX">
 
-<img src="img/miles/performance-partner-referrals.png" style="max-width:876px"><br><br>
+**Miles Interface** (Current) 
+
+<img src="img/miles/performance-partner-referrals.png" style="max-width:876px">  
+
+</span>
+
 
 **Nice to Have**  
 Provide a link to website traffic for the entire website when logged in as a staff member.  
 
-<img src="img/miles/performance-web-traffic.png" style="max-width:876px"><br><br>
+<span class="localX">
+
+**Miles Interface** (Current) 
+
+<img src="img/miles/performance-web-traffic.png" style="max-width:876px">  
+
+</span>
+
 
 **Additional Reporting for Partners**  
 What additional Economic Development data sources would we like to cross-relate for partners?  
