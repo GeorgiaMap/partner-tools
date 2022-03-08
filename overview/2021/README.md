@@ -22,11 +22,11 @@ My Email (for admins only)
 Include the user's role [Inactive, Editor, Owner] to the right of their listed organizations, locations and events.
 Include a "Remove" option for each relation row.
 
-## Organization Details
+## Organization Account Details
 
-Each organization's account page features their locations and events.
+Each organization's account page features their related locations and events.
 
-Partner "Organizations" have Individuals, Locations and Events.  
+Partner "Organizations" have related Individuals, Locations and Events.  
 Roles set at the Organzation level apply to Locations and Events.  
 Roles may also be set directly for Locations and Events.  
 
@@ -34,7 +34,7 @@ Roles may also be set directly for Locations and Events.
 - Events
 - Individuals
 
-## Roles
+## User Roles
 
 A list of individuals for each organization, location and event.
 
