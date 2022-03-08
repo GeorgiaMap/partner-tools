@@ -13,13 +13,14 @@ My Name (First and Last)
 My Title
 My Email (for admins only)  
 
-**Navigation**
-My Organizations (and Roles) - Example: Georgia State Parks
-My Locations (and Roles) - Example: Unicoi State Park
-My Events (and Roles)
-Sign out
+**Profile Navigation**
+- My Organizations - Example: Georgia State Parks
+- My Locations - Example: Unicoi State Park
+- My Events - Example: New Years Hike
+- Sign out
 
- 
+Include the user's role [Inactive, Editor, Owner] to the right of their listed organizations, locations and events.
+Include a "Remove" option for each relation row.
 
 ## Organization Details
 
