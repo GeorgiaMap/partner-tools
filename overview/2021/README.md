@@ -1,28 +1,37 @@
 
 # Partner Tool
 
-Overview of Fields and Functionality
+Overview of fields and functionality
+
+
+
+## My Profile
+
+Each user has one user profile, which is related to multiple organization accounts, location listings and events.  
+
+My Name (First and Last)  
+My Title
+My Email (for admins only)  
+
+**Navigation**
+My Organizations (and Roles) - Example: Georgia State Parks
+My Locations (and Roles) - Example: Unicoi State Park
+My Events (and Roles)
+Sign out
+
+ 
+
+## Organization Details
+
+Each organization's account page features their locations and events.
 
 Partner "Organizations" have Individuals, Locations and Events.  
 Roles set at the Organzation level apply to Locations and Events.  
 Roles may also be set directly for Locations and Events.  
 
-
-## My Account
-
-Individual Name (First and Last)  
-Title
-Email  
-
-**Sections**
-My Organizations (and Roles) - Example: Georgia State Parks
-My Locations (and Roles) - Example: Individual Parks
-My Events (and Roles)
-Sign out
-
-Note: In the Miles system, "Accounts" are organizations. Accounts have "Listings" (Locations) and "Events".  
-
-
+- Locations
+- Events
+- Individuals
 
 ## Roles
 
@@ -34,14 +43,14 @@ Email
 Role  
 
 **Functionality**
-Row menu: User Details, Remove User  
+Row menu: User Profile, Remove User  
 Add an existing user [As an Editor] [As an Owner]  
 Add new user - Not a link on current page, user must add themselves.  
 
 **Current issue**  
 Clicking email goes to account detail, row menu needed.  
 
-## User Details
+## User Profile
 
 Name
 Title
