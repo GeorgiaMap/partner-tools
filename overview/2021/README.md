@@ -16,7 +16,7 @@ My Email (for admins only)
 **Profile Navigation**
 - My Organizations - Example: Georgia State Parks
 - My Locations - Example: Unicoi State Park
-- My Events - Example: New Years Hike
+- My Events - Example: New Year's Hike
 - Sign out
 
 Include the user's role [Inactive, Editor, Owner] to the right of their listed organizations, locations and events.
@@ -51,11 +51,12 @@ Add new user - Not a link on current page, user must add themselves.
 **Current issue**  
 Clicking email goes to account detail, row menu needed.  
 
-## User Profile
+## User Lists
 
-Name
-Title
-Email
+**Columns**
+Name  
+Title  
+Email  
 
 **Location Roles** (list)
 Location
