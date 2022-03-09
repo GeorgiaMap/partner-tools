@@ -150,7 +150,7 @@ The text says "you changed your listing for ABC", but the emails can go to other
 
 **Miles Interface** (Current) 
 
-<img src="img/miles/brochure-approval-detail.png" style="max-width:876px">  
+<img src="img/miles/brochure-approval.png" style="max-width:876px">  
 
 </span>
 
