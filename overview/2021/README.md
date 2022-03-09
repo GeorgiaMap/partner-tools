@@ -65,11 +65,10 @@ Role (Member, Editor, Owner)
 ## Locations and Events
 
 **Fields**
-Type (Location, Event, Deal)
 Name - with link to detail
 Presenter (Organization or other group) - with link to detail
-Category Tags 
-ID (under the name rather than columns)
+Category Tags (under the name)
+Type and ID (under the name rather than columns)
 Edited By  
 Date Edited  
 
@@ -90,6 +89,7 @@ Omit the Type and ID columns to conserve space. Include these after the name.
 <span class="localX">
 
 **Miles Interface** (Current)  
+Types are currently Location, Event, Deal  
 
 <img src="img/miles/list.png" style="max-width:822px">
 
@@ -203,3 +203,81 @@ Partner calendar and event detail page
 
 Places to stay by type, region, city, category 
 -->
+
+
+## Categories
+
+Ideally "Camera Ready" is simply one of the category options under "Film Production" in a single list to keep the navigation simiple.  
+
+### Adventure
+ ATV & Motocross
+ Airplane Dog Fighting
+ Caving (Spelunking)
+ Hang Gliding
+ Motorcycling
+ Rappelling
+ Rock Climbing
+ Skydiving
+ Tree Climbing
+ Zipline
+
+### Agritourism
+ Agritourism Trails & Tours
+ Farm to Table
+ Farmers Markets
+ Farms & Ranches
+
+### Arts & Culture
+ Cultural Trails & Tours
+ Galleries
+ Museums
+ Music
+ Performing Arts
+ Theaters
+
+### Entertainment
+ Amusement Centers
+ Animal Parks & Zoos
+ Aquariums
+ Casinos
+ Cruises
+ Group Tours
+ Live Music
+ Miniature Golf
+ Movie Theaters
+ Theme Parks
+ Tours
+
+### Film Production
+ Film Tour Location
+ Camera Ready
+
+### Food & Drink
+ Bakeries
+ Bar & Grills
+ Bars, Clubs & Nightlife
+ Brew Pubs & Wine Bars
+ Buffets
+ Cafes, Coffeehouses & Tea Rooms
+ Cafeterias & Food Courts
+ Casual Full Service
+ Culinary Experiences
+ Deli & Sandwiches
+ Diners
+ Fine Dining
+ Food Tours
+ Ice Cream & Desserts
+ Pizzerias
+ Sports Bar & Pubs
+ Steakhouses & Seafood
+ Wineries, Breweries & Distilleries
+
+### Golf
+ Georgia Golf Trail
+ Golf Courses
+ Golf Schools
+ Ranges & Practice Facilities
+
+### Group Event Venues
+ Convention & Conference Centers
+ Fairgrounds
