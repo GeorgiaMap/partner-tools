@@ -7,7 +7,7 @@ Overview of fields and functionality
 
 ## My Profile
 
-Each user has one user profile, which is related to multiple organization accounts, location listings and events.  
+Each user has one user profile, which can be related to multiple organization accounts.  
 
 My Name (First and Last)  
 My Title
@@ -19,7 +19,9 @@ My Email (for admins only)
 - My Events - Example: New Year's Hike
 - Sign out
 
-Include the user's role [Inactive, Editor, Owner] to the right of their listed organizations, locations and events.
+Each user profile page should list or link to the user's organizations, related locations and active events.
+
+To the right of organization rows, include the user's role [Editor, Owner].  
 Include a "Remove" option for each relation row.
 
 ## Organization Account Details
