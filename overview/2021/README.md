@@ -3,8 +3,6 @@
 
 Overview of fields and functionality
 
-
-
 ## My Profile
 
 Each user has one user profile, which can be related to multiple organization accounts.  
@@ -100,10 +98,14 @@ Types are currently Location, Event, Deal
 
 ## Listings
 
+**Drupal Interface** (Current location list. Future design layouts may differ.)
+
 <img src="img/pages/listings.png" style="max-width:1084px">
 <br>
 
 ## Listing Detail
+
+**Drupal Interface** (Current fields. Future design layouts may differ.)
 
 <img src="img/pages/listing-detail.png" style="max-width:1084px">
 
@@ -155,6 +157,11 @@ The text says "you changed your listing for ABC", but the emails can go to other
 <img src="img/miles/brochure-approval.png" style="max-width:876px">  
 
 </span>
+
+## Organization List (Clients)
+
+This side navigation could be called "Organizations" or "Client".
+
 
 
 ## Calendar
