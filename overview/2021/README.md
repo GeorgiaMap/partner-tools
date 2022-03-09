@@ -1,7 +1,10 @@
 
 # Partner Tool
 
-Overview of fields and functionality
+Overview of fields and functionality. 
+All fields and functionality are manditory unless listed under "Nice to Have"  
+
+"May use frontend components" refers to allowing editors to remain in the main website (ExploreGeorgia.org) when logging in and submitting changes. Similar to Facebook, an item's "edit" link would only be visible to its associated editors/owners.  
 
 ## My Profile
 
@@ -12,7 +15,7 @@ My Title
 My Email (for admins only)  
 
 **Profile Navigation**
-- My Organizations - Example: Georgia State Parks
+- My Organization(s) (Account/Client) - Example: Georgia State Parks
 - My Locations - Example: Unicoi State Park
 - My Events - Example: New Year's Hike
 - Sign out
@@ -88,7 +91,7 @@ Omit the Type and ID columns to conserve space. Include these after the name.
 
 <span class="localX">
 
-**Miles Interface** (Current)  
+**Current Miles Interface** (Future design layouts may differ and may use frontend components.)  
 Types are currently Location, Event, Deal  
 
 <img src="img/miles/list.png" style="max-width:822px">
@@ -128,7 +131,7 @@ Data search
 
 <span class="localX">
 
-**Miles Interface** (Current)  
+**Current Miles Interface** (Future design layouts may differ and may use frontend components.)  
 
 <img src="img/miles/approval-queue.png" style="max-width:1477px">  
 
@@ -137,22 +140,25 @@ Data search
 
 ## Brochure Approval Queue
 
-**Miles Interface** (Current)  
+**Current Miles Interface** (Future design layouts may differ and may use frontend components.)  
 
 <img src="img/miles/brochure-approval-queue.png" style="max-width:1070px">  
 
 ## Brochure Approval Detail
 
-**Nice to Have**  
-Hide extra cloudinary data under a "More" link.  
-Avoid button overlap of right side.  
-If correct, rename radio button to: "Send notification email when listing is changed."  
-Rename "User Emails" to "Send notification to:"  
-The text says "you changed your listing for ABC", but the emails can go to other individuals.  
+**Current Issues**  
+1. The default email notification text is "you changed your listing for ABC", however the default email goes to others.  
+The default notification text could be changed to:  
+Brochure updated: [brochure name]
+Submitted by [name] on [datetime] 
+2. Displays extra cloudinary data. Future solution could use a "More" link instead to hide non-essentials.  
+3. Buttons overlap right side.  
+4. To add clarity, radio button could be: "Send notification email when listing is changed."  
+5. To add clarity, "User Emails" could be "Send notification to:"  
 
 <span class="localX">
 
-**Miles Interface** (Current) 
+**Current Miles Interface** (Future design layouts may differ and may use frontend components.) 
 
 <img src="img/miles/brochure-approval.png" style="max-width:876px">  
 
@@ -181,7 +187,7 @@ Add info below charts to explain Website Grid and Website Profile.
 If correct, include: "Directions" indicates the number of requests to view directions to your location from within our website.  
 <span class="localX">
 
-**Miles Interface** (Current) 
+**Current Miles Interface** (Future design layouts may differ and may use frontend components.) 
 
 <img src="img/miles/performance-partner-referrals.png" style="max-width:876px">  
 
@@ -193,7 +199,7 @@ Provide a link to website traffic for the entire website when logged in as a sta
 
 <span class="localX">
 
-**Miles Interface** (Current) 
+**Current Miles Interface** (Future design layouts may differ and may use frontend components.) 
 
 <img src="img/miles/performance-web-traffic.png" style="max-width:876px">  
 
