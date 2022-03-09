@@ -94,6 +94,16 @@ Types are currently Location, Event, Deal
 <img src="img/miles/list.png" style="max-width:822px">
 
 </span>
+<br>
+
+## Listings
+
+<img src="img/pages/listings.png" style="max-width:1084px">
+<br>
+
+## Listing Detail
+
+<img src="img/pages/listing-detail.png" style="max-width:1084px">
 
 ## Approval Queue
 
@@ -207,7 +217,8 @@ Places to stay by type, region, city, category
 
 ## Categories
 
-Ideally "Camera Ready" is simply one of the category options under "Film Production" in a single list to keep the navigation simiple.  
+Ideally "Camera Ready" is simply one of the category options under "Film Production" to keep management simiple.  
+Categories can be selectively displayed on the Listing Detail pages.  
 
 ### Adventure
  ATV & Motocross
@@ -249,7 +260,7 @@ Ideally "Camera Ready" is simply one of the category options under "Film Product
  Tours
 
 ### Film Production
- Film Tour Location
+ Noteworthy Film Site
  Camera Ready
 
 ### Food & Drink
