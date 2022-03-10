@@ -164,10 +164,16 @@ Submitted by [name] on [datetime]
 
 </span>
 
+
 ## Organization List (Clients)
 
-This side navigation could be called "Organizations" or "Client".
+Side navigation could be called "Organizations" or "Client".
 
+<img src="img/miles/client-accounts.png" style="max-width:876px"> 
+
+## Listing Sections
+
+<img src="img/miles/listing-sections.png" style="max-width:876px"> 
 
 
 ## Calendar
