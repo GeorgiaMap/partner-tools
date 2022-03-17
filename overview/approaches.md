@@ -10,7 +10,7 @@ What steps would you implement to move us forward from our existing set-up? You 
   
 -----------------------------------------
  
-#### 1. Turnkey - Implemented using Offeror’s Existing Forms and Existing data architecture
+#### 1. Turnkey - Implemented using Offeror’s existing forms and existing data architecture
 
 a. Activate a new instance of partner listing database and turnkey site for preview.
 b. Update existing partner tool to include Tourism and CameraReady specs.
