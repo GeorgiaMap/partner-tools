@@ -3,12 +3,12 @@
 These are “Nice to Have” addons that we'd like to include in the Destination Partner Tools.
 
 ### 4.1.	Destination Deals
-4.1.1.	Use of the Deal section by our destination partners has declined as more popular Deal sites have emerged (GroupOn, etc). Will your solution allow for custom deal posting. Y/N 
-4.1.2.	Can your solution pull and merge deals from multiple third-party sources?
+4.1.1.	Use of the Deal section by our destination partners has declined as more popular Deal sites have emerged (GroupOn, etc). Will your solution allow for custom deal posting. Y/N  
+4.1.2.	Can your solution pull and merge deals from multiple third-party sources?  
 4.1.3.	Can your solution filter Deals by regions of the state?
 
 ### 4.2.	 Personal Travel Emails
-4.2.1.	Can the Offerors solution or an integrated third-party tool provide unique emails for every recipient based on combinations of their interests? Y/N
+4.2.1.	Can the Offerors solution or an integrated third-party tool provide unique emails for every recipient based on combinations of their interests? Y/N  
 4.2.1.1.	If yes, can custom emails be sent automatically daily based on travel date ranges and locations saved by users. Y/N
 
 See [WP Travel Engine](https://wptravelengine.com/downloads/advanced-itinerary-builder/)  
@@ -33,8 +33,8 @@ Events are a popular area of our website, but partners are not maintaining event
 Google places could augment Hours of Operation and provide physical address, phone numbers and reusable images from Google Places Photos. Partners could check which images to reuse. The option to ignore Google would be needed to deactivate pulls for specific listings.
 
 ### 4.8.	 Emergency Lodging List
-In the past we’ve displayed a lodging map during hurricanes using a Google Sheet for real-time updates by our Convention and Visitor Bureau (CVB) staff. Expedia and TripAdvisor also provide options for emergency lodging availability with a Pro license.
-4.8.1.	Could Offeror solution provide a process for listing lodging availability and emergency shelters during hurricanes or other crises? Y/N
+In the past we’ve displayed a lodging map during hurricanes using a Google Sheet for real-time updates by our Convention and Visitor Bureau (CVB) staff. Expedia and TripAdvisor also provide options for emergency lodging availability with a Pro license.  
+4.8.1.	Could Offeror solution provide a process for listing lodging availability and emergency shelters during hurricanes or other crises? Y/N  
 4.8.2.	If yes, describe how your solution could be used to manage and display availability during disasters.
 
 <!--

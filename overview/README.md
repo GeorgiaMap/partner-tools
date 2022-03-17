@@ -244,74 +244,74 @@ Ideally "Camera Ready" is simply one of the category options under "Film Product
 Categories can be selectively displayed on the Listing Detail pages.  
 
 ### Adventure
- ATV & Motocross
- Airplane Dog Fighting
- Caving (Spelunking)
- Hang Gliding
- Motorcycling
- Rappelling
- Rock Climbing
- Skydiving
- Tree Climbing
- Zipline
+ ATV & Motocross  
+ Airplane Dog Fighting  
+ Caving (Spelunking)  
+ Hang Gliding  
+ Motorcycling  
+ Rappelling  
+ Rock Climbing  
+ Skydiving  
+ Tree Climbing  
+ Zipline  
 
 ### Agritourism
- Agritourism Trails & Tours
- Farm to Table
- Farmers Markets
- Farms & Ranches
+ Agritourism Trails & Tours  
+ Farm to Table  
+ Farmers Markets  
+ Farms & Ranches  
 
 ### Arts & Culture
- Cultural Trails & Tours
- Galleries
- Museums
- Music
- Performing Arts
- Theaters
+ Cultural Trails & Tours  
+ Galleries  
+ Museums  
+ Music  
+ Performing Arts  
+ Theaters  
 
 ### Entertainment
- Amusement Centers
- Animal Parks & Zoos
- Aquariums
- Casinos
- Cruises
- Group Tours
- Live Music
- Miniature Golf
- Movie Theaters
- Theme Parks
- Tours
+ Amusement Centers  
+ Animal Parks & Zoos  
+ Aquariums  
+ Casinos  
+ Cruises  
+ Group Tours  
+ Live Music  
+ Miniature Golf  
+ Movie Theaters  
+ Theme Parks  
+ Tours  
 
 ### Film Production
- Noteworthy Film Site
- Camera Ready
+ Noteworthy Film Site  
+ Camera Ready  
 
 ### Food & Drink
- Bakeries
- Bar & Grills
- Bars, Clubs & Nightlife
- Brew Pubs & Wine Bars
- Buffets
- Cafes, Coffeehouses & Tea Rooms
- Cafeterias & Food Courts
- Casual Full Service
- Culinary Experiences
- Deli & Sandwiches
- Diners
- Fine Dining
- Food Tours
- Ice Cream & Desserts
- Pizzerias
- Sports Bar & Pubs
- Steakhouses & Seafood
- Wineries, Breweries & Distilleries
+ Bakeries  
+ Bar & Grills  
+ Bars, Clubs & Nightlife  
+ Brew Pubs & Wine Bars  
+ Buffets  
+ Cafes, Coffeehouses & Tea Rooms  
+ Cafeterias & Food Courts  
+ Casual Full Service  
+ Culinary Experiences  
+ Deli & Sandwiches  
+ Diners  
+ Fine Dining  
+ Food Tours  
+ Ice Cream & Desserts  
+ Pizzerias  
+ Sports Bar & Pubs  
+ Steakhouses & Seafood  
+ Wineries, Breweries & Distilleries  
 
 ### Golf
- Georgia Golf Trail
- Golf Courses
- Golf Schools
- Ranges & Practice Facilities
+ Georgia Golf Trail  
+ Golf Courses  
+ Golf Schools  
+ Ranges & Practice Facilities  
 
 ### Group Event Venues
- Convention & Conference Centers
- Fairgrounds
+ Convention & Conference Centers  
+ Fairgrounds  
