@@ -4,7 +4,9 @@
 Overview of fields and functionality. 
 All fields and functionality are manditory unless listed under "Nice to Have"  
 
-"May use frontend components" refers to allowing editors to remain in the main website (ExploreGeorgia.org) when logging in and submitting changes. Similar to Facebook, an item's "edit" link would only be visible to its associated editors/owners.  
+"May use frontend components" refers to allowing editors to remain in the main website (ExploreGeorgia.org) when logging in and submitting changes.  
+
+Similar to Facebook, an item's "edit" link could be visible to its associated editors/owners.  
 
 ## My Profile
 

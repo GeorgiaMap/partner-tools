@@ -36,3 +36,17 @@ Google places could augment Hours of Operation and provide physical address, pho
 In the past we’ve displayed a lodging map during hurricanes using a Google Sheet for real-time updates by our Convention and Visitor Bureau (CVB) staff. Expedia and TripAdvisor also provide options for emergency lodging availability with a Pro license.
 4.8.1.	Could Offeror solution provide a process for listing lodging availability and emergency shelters during hurricanes or other crises? Y/N
 4.8.2.	If yes, describe how your solution could be used to manage and display availability during disasters.
+
+<!--
+How easy would it be to include each in Offeror’s destination partner directory solution?
+
+20 Points. Already in our proposed solution
+10. Super Easy – Under 8 hours 
+8. Easy – Under 20 hours 
+6. Medium – 20 to 80 hours 
+4. Difficult – 80 to 200 hours 
+0. Probably not feasible to add – More than 200 hours
+
+C. For each, indicate which portions of work provided will be transferable to us 
+and available for reuse in other sites.
+-->
