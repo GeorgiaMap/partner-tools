@@ -3,7 +3,7 @@
 These are “Nice to Have” add-ons that we'd like to provide in the Partner Directory Tools.
 
 ### Destination Deals
-Use of the Deal section by our destination partners has declined as more popular Deal sites have emerged (GroupOn, etc). Will your solution allow for custom deal posting. We'd like to pull and merge deals from multiple third-party sources, and filter Deals by regions of the state.
+Use of the Deal section by our destination partners has declined as more popular Deal sites have emerged (GroupOn, etc). We'd like to pull and merge deals from multiple third-party sources, and filter Deals by regions of the state.
 
 ### Personal Travel Emails
 Unique travel emails could be sent based on combinations of user interests, travel time ranges, destinations and/or regions of the state.  A custom email could be sent automatically daily based on travel date ranges and locations saved by users.
