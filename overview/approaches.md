@@ -5,8 +5,11 @@
 Data Migration and Form Development
   
 ExploreGeorgia.org currently uses a proprietary Laravel app hosted at Partner.ExploreGeorgia.org to provide a “partner extranet,” allowing our tourism destination partners to update their business listings, events and images through an admin site. These updates are displayed in our Drupal frontend via an API. We would ideally like to allow partners to start from the front-end where the listings reside when making an update.
- 
-What steps would you implement to move us forward from our existing set-up? You may start with a series of steps below (Turnkey, 100% Drupal, or Hybrid) and modify as you see fit, or propose another approach. Important considerations for us are: site performance speeds less than 2 seconds (like cnn.com), ease of use, security, backups, future flexibility for updates, and the ability to migrate code and data at any time during the contract. Include any additional processes you would use for UX/UI, calendars, maps and analytics.
+
+<!--
+What steps would you implement to move us forward from our existing set-up? You may start with a series of steps below (Turnkey, 100% Drupal, or Hybrid) and modify as you see fit, or propose another approach. 
+-->
+Important considerations for us are: site performance speeds less than 2 seconds (like cnn.com), ease of use, security, backups, future flexibility for updates, and the ability to migrate code and data at any time during the contract. Include any additional processes you would use for UX/UI, calendars, maps and analytics.
   
 -----------------------------------------
  

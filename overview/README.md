@@ -1,12 +1,10 @@
 
 # Partner Tool Overview
 
-Overview of fields and functionality. 
-All fields and functionality are manditory unless listed under "Nice to Have"  
+Overview of fields and functionality. <!--
+All fields and functionality are manditory unless listed under "Nice to Have"  -->
 
-"May use frontend components" refers to allowing editors to remain in the main website (ExploreGeorgia.org) when logging in and submitting changes.  
-
-Similar to Facebook, an item's "edit" link could be visible to its associated editors/owners.  
+"May use frontend components" refers to allowing editors to remain in the main website (ExploreGeorgia.org) when logging in and submitting changes.  Similar to Facebook, an item's "edit" link could be visible to its associated editors/owners.  
 
 ## My Profile
 
@@ -24,6 +22,7 @@ My Email (for admins only)
 
 Each user profile page should list or link to the user's organizations, related locations and active events.
 
+**Nice to Have**
 To the right of organization rows, include the user's role [Editor, Owner].  
 Include a "Remove" option for each relation row.
 
@@ -183,7 +182,8 @@ Side navigation could be called "Organizations" or "Client".
 
 **Nice to Have**  
 Integration with external partner calendars.  
-Display calendar layout in frontend. Try [elfsight calendar widgets](https://elfsight.com/event-calendar-widget/)  
+Display calendar layout in frontend.  
+Possible embeddded calendar: [elfsight calendar widgets](https://elfsight.com/event-calendar-widget/)  
 
 
 ## Performance

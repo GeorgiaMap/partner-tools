@@ -7,9 +7,9 @@ Use of the Deal section by our destination partners has declined as more popular
 
 ### Personal Travel Emails
 Unique travel emails could be sent based on combinations of user interests, travel time ranges, destinations and/or regions of the state.  A custom email could be sent automatically daily based on travel date ranges and locations saved by users.
-
+<!--
 See [WP Travel Engine](https://wptravelengine.com/downloads/advanced-itinerary-builder/)  
-
+-->
 ### Deep Search across both CMS and Listing Database
 We'd like to provide search results that include both page content from the CMS and partner admin database content (locations, events). Implement using techniques that avoid impacting page performance. Include filters that populate URL # hash values to share search results.
 
